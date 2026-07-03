@@ -1,0 +1,4 @@
+*NOTAS PARA COMANDOS IMPORTANTES*
+
+Modificar cambios en GitHub: git add .
+
