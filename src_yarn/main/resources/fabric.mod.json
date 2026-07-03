@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "freezecamera",
+  "version": "${version}",
+  "name": "Freeze Camera Mod",
+  "description": "This mod has a keybind that freezes your camera",
+  "authors": ["ExdapTor"],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.freezecameramod.FreezeCameraMod"
+      ],
+    "client": [
+      "com.freezecameramod.FreezeCameraClient"
+    ]
+  },
+  "mixins":[
+    "freezecamera.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "1.21.10",
+    "fabric-api": "*",
+    "java": ">=25"
+  }
+}
