@@ -12,7 +12,6 @@ A Fabric mod for Minecraft that allows freezing the player's camera at a fixed y
 
 ## Supported versions
 
-- 1.21.11
 - 26.1.2
 
 ## License
