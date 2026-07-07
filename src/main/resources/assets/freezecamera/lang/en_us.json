@@ -1,0 +1,19 @@
+{
+  "key.freezecamera.toggle": "Freeze/Unfreeze Camera",
+  "key.freezecameramod.lock_slot": "Freeze/Unfreeze Slot",
+  "category.freezecamera": "Freeze Camera Mod",
+  "message.freezecamera.configError": "[FreezeCameraMod] Config error, applying default values.",
+  "message.freezecamera.frozen": "§9[FreezeCameraMod] §bCamera frozen (Yaw: %s§b, Pitch: %s)",
+  "message.freezecamera.unfrozen": "§9[FreezeCameraMod] §eCamera unfrozen",
+  "message.freezecamera.frozenslot": "§9[FreezeCameraMod] §bSlot frozen",
+  "message.freezecamera.unfrozenslot": "§9[FreezeCameraMod] §bSlot unfrozen",
+  "message.freezecamera.setFrozenCamera": "§9[FreezeCameraMod] §aCamera frozen at Yaw: %s§a, Pitch: %s",
+  "message.freezecamera.loadCameraSuccess": "§9[FreezeCameraMod] §a✅ Camera %s§a loaded.",
+  "message.freezecamera.loadCameraError": "§9[FreezeCameraMod] §c❌ Camera %s§c not found.",
+  "message.freezecamera.saveCameraSuccess": "§9[FreezeCameraMod] §cCámara %s §csaved. Yaw: %s§c, Pitch: %s",
+  "message.freezecamera.deleteCameraSuccess": "§9[FreezeCameraMod] §aCamera %s §cdeleted §asuccessfully.",
+  "message.freezecamera.deleteCameraError": "§9[FreezeCameraMod] §cCamera %s §cnot found.",
+  "message.freezecamera.listCamerasNull": "§9[FreezeCameraMod] §cNo saved cameras.",
+  "message.freezecamera.listCamerasSuccess": "§9[FreezeCameraMod] §a Cameras saved:",
+  "message.freezecamera.listCamerasObtained": "§e- %s-> §6Yaw: %s§6, Pitch: %s"
+}
