@@ -1,5 +1,5 @@
 {
-  "category.freezecamera": "Freeze Camera Mod",
+  "key.category.freezecamera.freeze": "Freeze Camera Mod",
   "key.freezecamera.toggle": "Congelar/Descongelar Camera",
   "key.freezecameramod.lock_slot": "Congelar/Descongelar Slot",
   "message.freezecamera.configError": "[FreezeCameraMod] Error leyendo la configuracion, aplicando valores por defecto.",
@@ -8,9 +8,9 @@
   "message.freezecamera.frozenslot": "§9[FreezeCameraMod] §bSlot congelado",
   "message.freezecamera.unfrozenslot": "§9[FreezeCameraMod] §bSlot descongelado",
   "message.freezecamera.setFrozenCamera": "§9[FreezeCameraMod] §aCámara congelada en Yaw: %s§a, Pitch: %s",
-  "message.freezecamera.loadCameraSucess": "§9[FreezeCameraMod] §a✅ Cámara %s §acargada correctamente .",
+  "message.freezecamera.loadCameraSuccess": "§9[FreezeCameraMod] §a✅ Cámara %s §acargada correctamente .",
   "message.freezecamera.loadCameraError": "§9[FreezeCameraMod] §c❌ No se ha encontrado la cámara %s.",
-  "freezecameramod.camera.saveCameraSucess": "§9[FreezeCameraMod] §cCámara %s §cguardada. Yaw: %s§c, Pitch: %s",
+  "freezecameramod.camera.saveCameraSuccess": "§9[FreezeCameraMod] §cCámara %s §cguardada. Yaw: %s§c, Pitch: %s",
   "message.freezecamera.listCamerasNull": "§9[FreezeCameraMod] §cNo hay cámaras guardadas.",
   "message.freezecamera.listCamerasSuccess": "§9[FreezeCameraMod] §a Cámaras guardadas:",
   "message.freezecamera.listCamerasObtained": "§e- %s-> §6Yaw: %s§6, Pitch: %s"

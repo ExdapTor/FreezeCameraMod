@@ -1,7 +1,7 @@
 {
   "key.freezecamera.toggle": "Freeze/Unfreeze Camera",
   "key.freezecameramod.lock_slot": "Freeze/Unfreeze Slot",
-  "category.freezecamera": "Freeze Camera Mod",
+  "key.category.freezecamera.freeze": "Freeze Camera Mod",
   "message.freezecamera.configError": "[FreezeCameraMod] Config error, applying default values.",
   "message.freezecamera.frozen": "§9[FreezeCameraMod] §bCamera frozen (Yaw: %s§b, Pitch: %s)",
   "message.freezecamera.unfrozen": "§9[FreezeCameraMod] §eCamera unfrozen",
